@@ -1,2 +1,2 @@
-# Ankit-1998
-IOT by AnkitJaysawal
+Jaysawal Ankit Ashokkumar
+Currently Persuing Online MCA from Amrita University
